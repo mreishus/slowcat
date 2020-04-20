@@ -3,6 +3,12 @@
 Slowcat is like "cat", but it's slow. This produces a visual effect you might
 find pleasing.
 
+## Screenshot
+
+![Example Screenshot](./example.gif?raw=true "Example Screenshot")
+
+`slowcat` is smoother than it appears in this gif.
+
 ## Installation
 
 ### With Go Environment
